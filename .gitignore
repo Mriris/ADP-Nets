@@ -32,5 +32,6 @@ coverage.xml
 .pyre/
 
 /input
-/result
+/result*
 /log
+/output*
